@@ -1,0 +1,60 @@
+
+body{
+    font-family: "Times New Roman";
+    margin: 0;
+}
+header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: #E6E6E6;
+    margin-bottom: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 0;
+    background-color: #C4C4C4;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    color: #005677;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    
+}
+
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form_academica{
+    list-style: none;
+}
+
+pre{
+    font-family: "Times New Roman";
+    margin-top: 5px;
+}
+li{
+    margin: 5px 0;
+}
+.datos{
+    margin-top: 150px;
+}
+
+footer{
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    /*height: 50px;*/
+    margin-top: 150px;
+    background-color: #005677;
+
+}
